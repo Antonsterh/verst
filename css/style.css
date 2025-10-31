@@ -4,7 +4,7 @@
 }
 @media screen and (max-width: 700px){
 
-body {background: red;}
+body {background:white;}
 
 }
 @font-face {
@@ -276,3 +276,4 @@ body {background: red;}
     }
 
 }
+
